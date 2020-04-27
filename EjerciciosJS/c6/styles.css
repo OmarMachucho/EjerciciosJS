@@ -1,0 +1,10 @@
+.horror{
+    padding: 15px;
+    color: aqua;
+    border: brown;
+}
+.error{
+    padding: 20px;
+    color: darkslategrey;
+    border: 1px dotted lightcoral;
+}
